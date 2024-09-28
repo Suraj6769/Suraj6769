@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Deep learning**
 
-- 💬 Ask me about **Python, SQL, R,**
+- 💬 Ask me about **Python, SQL, R, SAS, Excel, Tableau**
 
 - 📫 How to reach me **svishwakarma9322@gmail.com**
 

@@ -5,7 +5,7 @@
 
 - 👨‍🏭 I’m currently pursuing [MSc Statistics and Data Science](https://mathematics.nmims.edu/academics/programs/msc/statistics/) from NMIMS University
 
-- 🔭 I’m currently working on **Portfolio Website**
+- 🔭 I’m currently working on **Automation**
 
 - 🌱 I’m currently learning **Deep learning**
 

@@ -11,11 +11,11 @@
 ---
 
 ### 🚀 The Mission
-[cite_start]I specialize in bridging the gap between **Complex Statistics** and **Autonomous AI**[cite: 4, 29]. [cite_start]With professional experience as a **Catastrophic Risk Modeling Intern** at Marsh McLennan and a **Junior GenAI Engineer** at Visulon Inc., I build scalable systems that translate messy enterprise data into high-impact business intelligence[cite: 10, 15, 17].
+I specialize in bridging the gap between **Complex Statistics** and **Autonomous AI**[cite: 4, 29].  With professional experience as a **Catastrophic Risk Modeling Intern** at Marsh McLennan and a **Junior GenAI Engineer** at Visulon Inc., I build scalable systems that translate messy enterprise data into high-impact business intelligence[cite: 10, 15, 17].
 
-- [cite_start]🎓 **Master of Science**: Statistics & Data Science @ NMIMS University (CGPA: 3.67/4.0)[cite: 29, 30].
-- [cite_start]🛠️ **Current Obsession**: Engineering **Agentic Workflows** and self-correcting **NLP-to-SQL** systems[cite: 16, 18].
-- [cite_start]🧪 **Core Strength**: Developing ensemble-based prediction models and optimizing GPU inference for real-time deployment[cite: 11, 18].
+-  🎓 **Master of Science**: Statistics & Data Science @ NMIMS University (CGPA: 3.67/4.0)[cite: 29, 30].
+-  🛠️ **Current Obsession**: Engineering **Agentic Workflows** and self-correcting **NLP-to-SQL** systems[cite: 16, 18].
+-  🧪 **Core Strength**: Developing ensemble-based prediction models and optimizing GPU inference for real-time deployment[cite: 11, 18].
 
 ---
 
@@ -60,11 +60,11 @@
 
 ### 📊 Professional Impact & Projects
 
-* [cite_start]**Catastrophic Risk Automation (Marsh McLennan)**: Automated data cleansing for **5,000+ records**, slashing processing time by **70%**[cite: 10, 12].
-* [cite_start]**Resume Intelligence System**: Engineered an NLP pipeline processing **10L+ text entries** using BERT and Cosine Similarity for intelligent job matching[cite: 20, 21, 22].
-* [cite_start]**GenAI Pipeline Design (Visulon)**: Designed and deployed Stable Diffusion models and NLP-to-SQL systems using Ollama for real-time querying[cite: 15, 16, 17].
-* [cite_start]**Deepfake Video Detection**: Developed a CNN-LSTM temporal sequence model achieving **88% accuracy** on benchmark datasets[cite: 26, 27].
-* [cite_start]**Customer Churn Analysis**: Built high-precision banking models (Random Forest, Gradient Boosting) with **91% accuracy**[cite: 23, 24, 25].
+*  **Catastrophic Risk Automation (Marsh McLennan)**: Automated data cleansing for **5,000+ records**, slashing processing time by **70%**[cite: 10, 12].
+*  **Resume Intelligence System**: Engineered an NLP pipeline processing **10L+ text entries** using BERT and Cosine Similarity for intelligent job matching[cite: 20, 21, 22].
+*  **GenAI Pipeline Design (Visulon)**: Designed and deployed Stable Diffusion models and NLP-to-SQL systems using Ollama for real-time querying[cite: 15, 16, 17].
+*  **Deepfake Video Detection**: Developed a CNN-LSTM temporal sequence model achieving **88% accuracy** on benchmark datasets[cite: 26, 27].
+*  **Customer Churn Analysis**: Built high-precision banking models (Random Forest, Gradient Boosting) with **91% accuracy**[cite: 23, 24, 25].
 
 ---
 

@@ -11,11 +11,11 @@
 ---
 
 ### 🚀 The Mission
-I bridge the gap between **Complex Statistics** and **Autonomous AI**. [cite_start]With a background in **Catastrophe Risk Modeling** [cite: 4, 10] [cite_start]and **Generative AI Engineering** [cite: 15][cite_start], I build end-to-end ML pipelines that translate messy enterprise data into actionable insights[cite: 5].
+[cite_start]I specialize in bridging the gap between **Complex Statistics** and **Autonomous AI**[cite: 4, 29]. [cite_start]With professional experience as a **Catastrophic Risk Modeling Intern** at Marsh McLennan and a **Junior GenAI Engineer** at Visulon Inc., I build scalable systems that translate messy enterprise data into high-impact business intelligence[cite: 10, 15, 17].
 
-- [cite_start]🎓 **Master of Science**: Statistics & Data Science @ NMIMS University[cite: 29].
-- [cite_start]🛠️ **Current Obsession**: Building **Agentic Workflows** and **Self-Correcting NLP-to-SQL Systems**[cite: 16].
-- [cite_start]🧪 **Expertise**: Ensemble-based risk prediction [cite: 11] [cite_start]and fine-tuning Stable Diffusion models[cite: 16].
+- [cite_start]🎓 **Master of Science**: Statistics & Data Science @ NMIMS University (CGPA: 3.67/4.0)[cite: 29, 30].
+- [cite_start]🛠️ **Current Obsession**: Engineering **Agentic Workflows** and self-correcting **NLP-to-SQL** systems[cite: 16, 18].
+- [cite_start]🧪 **Core Strength**: Developing ensemble-based prediction models and optimizing GPU inference for real-time deployment[cite: 11, 18].
 
 ---
 
@@ -24,9 +24,9 @@ I bridge the gap between **Complex Statistics** and **Autonomous AI**. [cite_sta
 <table>
   <tr>
     <td align="center" width="25%"><strong>Languages</strong></td>
-    <td align="center" width="25%"><strong>AI & Data Science</strong></td>
+    <td align="center" width="25%"><strong>AI & Deep Learning</strong></td>
     <td align="center" width="25%"><strong>Risk & Data Eng</strong></td>
-    <td align="center" width="25%"><strong>Visualization</strong></td>
+    <td align="center" width="25%"><strong>Visualization & BI</strong></td>
   </tr>
   <tr>
     <td>
@@ -39,17 +39,17 @@ I bridge the gap between **Complex Statistics** and **Autonomous AI**. [cite_sta
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
     </td>
     <td>
-      <img src="https://img.shields.io/badge/RMS%20%2F%20AIR-003B57?style=for-the-badge&logo=data-exploration&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+      <img src="https://img.shields.io/badge/RMS%20%2F%20AIR-003B57?style=for-the-badge&logo=data-exploration&logoColor=white" />
     </td>
     <td>
       <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" /><br>
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" /><br>
       <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
     </td>
@@ -58,10 +58,13 @@ I bridge the gap between **Complex Statistics** and **Autonomous AI**. [cite_sta
 
 ---
 
-### 📊 Projects & Impact
-- [cite_start]**Resume Analyzer & Job Recommender**: Built a BERT/Doc2Vec system for 5,000+ job listings[cite: 21, 22].
-- [cite_start]**Deepfake Detection**: Achieved 88% accuracy using CNN-LSTM temporal sequence modeling[cite: 27].
-- [cite_start]**CatRisk Pipelines**: Automated risk data cleansing for 5,000+ records, reducing latency by 70%[cite: 12].
+### 📊 Professional Impact & Projects
+
+* [cite_start]**Catastrophic Risk Automation (Marsh McLennan)**: Automated data cleansing for **5,000+ records**, slashing processing time by **70%**[cite: 10, 12].
+* [cite_start]**Resume Intelligence System**: Engineered an NLP pipeline processing **10L+ text entries** using BERT and Cosine Similarity for intelligent job matching[cite: 20, 21, 22].
+* [cite_start]**GenAI Pipeline Design (Visulon)**: Designed and deployed Stable Diffusion models and NLP-to-SQL systems using Ollama for real-time querying[cite: 15, 16, 17].
+* [cite_start]**Deepfake Video Detection**: Developed a CNN-LSTM temporal sequence model achieving **88% accuracy** on benchmark datasets[cite: 26, 27].
+* [cite_start]**Customer Churn Analysis**: Built high-precision banking models (Random Forest, Gradient Boosting) with **91% accuracy**[cite: 23, 24, 25].
 
 ---
 

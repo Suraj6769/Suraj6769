@@ -18,6 +18,15 @@
 
 ---
 
+## ⚡ Live
+
+<table>
+<tr>
+<td width="50%"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzJ4M2sxdXlra2Nyam9wemN3N3F4b2d6ZW42d3BucnRhd3V4d3FvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VT4bt9l3TNs7TlRsSi/giphy.gif" width="100%" alt="data pipeline animation" /></td>
+<td width="50%"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueWdwbGV3YzFveTB1Y2k0enlxZXZ4dWp6bzB1Z3Rqb2F4dTVydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%" alt="neural network animation" /></td>
+</tr>
+</table>
+
 ## 👋 About
 
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueWdwbGV3YzFveTB1Y2k0enlxZXZ4dWp6bzB1Z3Rqb2F4dTVydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="260" alt="AI neural network animation" />
@@ -202,22 +211,6 @@ CGPA **9.7/10.0** · First Class with Distinction
 <p align="center">
 <a href="https://www.kaggle.com/" title="Kaggle profile ↗"><img src="https://img.shields.io/badge/Top_5%25-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
 <a href="https://pydata.org/" title="PyData Mumbai 2024 ↗"><img src="https://img.shields.io/badge/Speaker-PyData_Mumbai_2024-1E4CC8?style=for-the-badge&logo=python&logoColor=white" /></a>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/surajvishwakarma11/surajvishwakarma11/output/snake.svg" alt="Snake animation" />
-</p>
-
----
-
-## 😄 Dev Meme of the Day
-
-<p align="center">
-<img src="https://random-memer.herokuapp.com/" width="480" alt="Meme" />
 </p>
 
 ---

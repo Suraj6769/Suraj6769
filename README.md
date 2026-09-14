@@ -1,14 +1,16 @@
 <div align="center">
 
-<!-- ========================================================= -->
-<!--                         HERO                              -->
-<!-- ========================================================= -->
+<!-- ===================================================== -->
+<!--                    ANIMATED HEADER                    -->
+<!-- ===================================================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f172a,70:0e7490,100:00d9ff&height=250&section=header&text=Suraj%20Vishwakarma&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%2FML%20Engineer&descAlignY=62&descSize=21&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,75:075985,100:00d9ff&height=180&section=header&animation=twinkling" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=900&color=00D9FF&center=true&vCenter=true&width=950&lines=Building+Production+Machine+Learning+Systems;Credit+Risk+%7C+Predictive+Modeling;Generative+AI+%7C+RAG+%7C+Agentic+AI;Recommendation+Systems+%7C+Semantic+Search;MLOps+%7C+AWS+%7C+Docker+%7C+Kubernetes" alt="Typing Animation"/>
+<h1>👋 Hey, I'm Suraj Vishwakarma</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=00D9FF&center=true&vCenter=true&width=900&height=55&lines=Data+Scientist+%7C+AI%2FML+Engineer;Credit+Risk+%7C+Predictive+Modeling;Generative+AI+%7C+RAG+%7C+Agentic+AI;Recommendation+Systems+%7C+Semantic+Search;MLOps+%7C+AWS+%7C+Production+ML" />
 
 <br/><br/>
 
@@ -30,34 +32,39 @@
 
 </div>
 
-
-<!-- ========================================================= -->
-<!--                      ABOUT ME                             -->
-<!-- ========================================================= -->
+---
 
 ## 🧠 About Me
 
-```python
-class SurajVishwakarma:
+I'm a **Data Scientist and AI/ML Engineer** focused on building machine learning systems that move from experimentation to production.
 
-    role = "Data Scientist | AI/ML Engineer"
+My work covers:
 
-    location = "Mumbai, India"
+`Machine Learning` · `Credit Risk` · `Predictive Modeling` · `GenAI` · `RAG` · `NLP` · `Recommendation Systems` · `MLOps`
 
-    focus = [
-        "Machine Learning",
-        "Credit Risk & Predictive Modeling",
-        "Generative AI",
-        "RAG & NLP",
-        "Recommendation Systems",
-        "MLOps & Production ML"
-    ]
+I enjoy taking messy data and ambiguous business problems and turning them into systems that can **predict, search, reason and automate**.
 
-    currently_building = [
-        "Agentic AI workflows",
-        "Intelligent retrieval systems",
-        "NLP-to-SQL applications",
-        "Production ML pipelines"
-    ]
-
-    philosophy = "Turn messy data into useful decisions."
+```text
+                 BUSINESS PROBLEM
+                        │
+                        ▼
+                   RAW DATA
+                        │
+                        ▼
+              DATA ENGINEERING
+                        │
+                        ▼
+             MACHINE LEARNING
+                        │
+             ┌──────────┴──────────┐
+             ▼                     ▼
+       PREDICTIVE ML          GENERATIVE AI
+             │                     │
+             │                LLM / RAG / NLP
+             │                     │
+             └──────────┬──────────┘
+                        ▼
+                  PRODUCTION
+                        │
+                        ▼
+             MONITORING & DRIFT
